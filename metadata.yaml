@@ -1,5 +1,5 @@
 homepage: "www.kargo.com"
 documentation: "https://docs.google.com/document/d/e/2PACX-1vQeN5DgyojBfxSmEuNftV_6IUgdaOA8EXJSpwKjgHu3bP0MCKWkyCCu64Q2rgYLfS5QjdBSQHSu8YNX/pub"
 versions:
-  - sha: 7d4881efe53c44a527867681ed2979e455a8529b
+  - sha: 435bde922a4518fd880ed46b7a58d8b68adbdeba
     changeNotes: Initial Version
